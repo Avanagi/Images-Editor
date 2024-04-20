@@ -32,11 +32,7 @@ public class Main {
         Imgproc.cvtColor(dst, color_dst, Imgproc.COLOR_GRAY2BGR);
         for (int i = 0; i < lines.rows(); i++) {
             double[] val = lines.get(i, 0);
-            double x1 = val[0];
-            double y1 = val[1];
-            double x2 = val[2];
-            double y2 = val[3];
-            Imgproc.line(color_dst, new Point(x1, y1), new Point(x2, y2), new Scalar(0, 0, 255), 3,
+            Imgproc.line(color_dst, new Point(val[0], val[1]), new Point(val[2], val[3]), new Scalar(0, 0, 255), 3,
                     Imgproc.LINE_AA, 0);
         }
 
