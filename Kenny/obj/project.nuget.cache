@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z5kuA8RXwtaiAx/m8G+HdLGdkq4rV0s1llrBEG6K0wngvVGYlXgN1mBLWGtHBPKjvuw3Jh5I8gmYvoWNL7/4aw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Роман Горелов\\WorkSpace\\Code\\Kenny\\Kenny.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Роман Горелов\\.nuget\\packages\\magick.net-q16-anycpu\\13.6.0\\magick.net-q16-anycpu.13.6.0.nupkg.sha512",
+    "C:\\Users\\Роман Горелов\\.nuget\\packages\\magick.net.core\\13.6.0\\magick.net.core.13.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

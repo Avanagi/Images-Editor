@@ -1,0 +1,79 @@
+C:\Users\gorel\Programming-Workspace\C#\Kenny\bin\Debug\net8.0\Kenny.exe
+C:\Users\gorel\Programming-Workspace\C#\Kenny\bin\Debug\net8.0\Kenny.deps.json
+C:\Users\gorel\Programming-Workspace\C#\Kenny\bin\Debug\net8.0\Kenny.runtimeconfig.json
+C:\Users\gorel\Programming-Workspace\C#\Kenny\bin\Debug\net8.0\Kenny.dll
+C:\Users\gorel\Programming-Workspace\C#\Kenny\bin\Debug\net8.0\Kenny.pdb
+C:\Users\gorel\Programming-Workspace\C#\Kenny\bin\Debug\net8.0\Magick.NET-Q16-AnyCPU.dll
+C:\Users\gorel\Programming-Workspace\C#\Kenny\bin\Debug\net8.0\Magick.NET.Core.dll
+C:\Users\gorel\Programming-Workspace\C#\Kenny\bin\Debug\net8.0\runtimes\linux-arm64\native\Magick.Native-Q16-arm64.dll.so
+C:\Users\gorel\Programming-Workspace\C#\Kenny\bin\Debug\net8.0\runtimes\linux-musl-x64\native\Magick.Native-Q16-x64.dll.so
+C:\Users\gorel\Programming-Workspace\C#\Kenny\bin\Debug\net8.0\runtimes\linux-x64\native\Magick.Native-Q16-x64.dll.so
+C:\Users\gorel\Programming-Workspace\C#\Kenny\bin\Debug\net8.0\runtimes\osx-arm64\native\Magick.Native-Q16-arm64.dll.dylib
+C:\Users\gorel\Programming-Workspace\C#\Kenny\bin\Debug\net8.0\runtimes\osx-x64\native\Magick.Native-Q16-x64.dll.dylib
+C:\Users\gorel\Programming-Workspace\C#\Kenny\bin\Debug\net8.0\runtimes\win-arm64\native\Magick.Native-Q16-arm64.dll
+C:\Users\gorel\Programming-Workspace\C#\Kenny\bin\Debug\net8.0\runtimes\win-x64\native\Magick.Native-Q16-x64.dll
+C:\Users\gorel\Programming-Workspace\C#\Kenny\bin\Debug\net8.0\runtimes\win-x86\native\Magick.Native-Q16-x86.dll
+C:\Users\gorel\Programming-Workspace\C#\Kenny\obj\Debug\net8.0\Kenny.csproj.AssemblyReference.cache
+C:\Users\gorel\Programming-Workspace\C#\Kenny\obj\Debug\net8.0\Kenny.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gorel\Programming-Workspace\C#\Kenny\obj\Debug\net8.0\Kenny.AssemblyInfoInputs.cache
+C:\Users\gorel\Programming-Workspace\C#\Kenny\obj\Debug\net8.0\Kenny.AssemblyInfo.cs
+C:\Users\gorel\Programming-Workspace\C#\Kenny\obj\Debug\net8.0\Kenny.csproj.CoreCompileInputs.cache
+C:\Users\gorel\Programming-Workspace\C#\Kenny\obj\Debug\net8.0\Kenny.csproj.Up2Date
+C:\Users\gorel\Programming-Workspace\C#\Kenny\obj\Debug\net8.0\Kenny.dll
+C:\Users\gorel\Programming-Workspace\C#\Kenny\obj\Debug\net8.0\refint\Kenny.dll
+C:\Users\gorel\Programming-Workspace\C#\Kenny\obj\Debug\net8.0\Kenny.pdb
+C:\Users\gorel\Programming-Workspace\C#\Kenny\obj\Debug\net8.0\Kenny.genruntimeconfig.cache
+C:\Users\gorel\Programming-Workspace\C#\Kenny\obj\Debug\net8.0\ref\Kenny.dll
+C:\Users\Роман Горелов\Downloads\Programming-Workspace\C#\Kenny\bin\Debug\net8.0\Kenny.exe
+C:\Users\Роман Горелов\Downloads\Programming-Workspace\C#\Kenny\bin\Debug\net8.0\Kenny.deps.json
+C:\Users\Роман Горелов\Downloads\Programming-Workspace\C#\Kenny\bin\Debug\net8.0\Kenny.runtimeconfig.json
+C:\Users\Роман Горелов\Downloads\Programming-Workspace\C#\Kenny\bin\Debug\net8.0\Kenny.dll
+C:\Users\Роман Горелов\Downloads\Programming-Workspace\C#\Kenny\bin\Debug\net8.0\Kenny.pdb
+C:\Users\Роман Горелов\Downloads\Programming-Workspace\C#\Kenny\bin\Debug\net8.0\Magick.NET-Q16-AnyCPU.dll
+C:\Users\Роман Горелов\Downloads\Programming-Workspace\C#\Kenny\bin\Debug\net8.0\Magick.NET.Core.dll
+C:\Users\Роман Горелов\Downloads\Programming-Workspace\C#\Kenny\bin\Debug\net8.0\runtimes\linux-arm64\native\Magick.Native-Q16-arm64.dll.so
+C:\Users\Роман Горелов\Downloads\Programming-Workspace\C#\Kenny\bin\Debug\net8.0\runtimes\linux-musl-x64\native\Magick.Native-Q16-x64.dll.so
+C:\Users\Роман Горелов\Downloads\Programming-Workspace\C#\Kenny\bin\Debug\net8.0\runtimes\linux-x64\native\Magick.Native-Q16-x64.dll.so
+C:\Users\Роман Горелов\Downloads\Programming-Workspace\C#\Kenny\bin\Debug\net8.0\runtimes\osx-arm64\native\Magick.Native-Q16-arm64.dll.dylib
+C:\Users\Роман Горелов\Downloads\Programming-Workspace\C#\Kenny\bin\Debug\net8.0\runtimes\osx-x64\native\Magick.Native-Q16-x64.dll.dylib
+C:\Users\Роман Горелов\Downloads\Programming-Workspace\C#\Kenny\bin\Debug\net8.0\runtimes\win-arm64\native\Magick.Native-Q16-arm64.dll
+C:\Users\Роман Горелов\Downloads\Programming-Workspace\C#\Kenny\bin\Debug\net8.0\runtimes\win-x64\native\Magick.Native-Q16-x64.dll
+C:\Users\Роман Горелов\Downloads\Programming-Workspace\C#\Kenny\bin\Debug\net8.0\runtimes\win-x86\native\Magick.Native-Q16-x86.dll
+C:\Users\Роман Горелов\Downloads\Programming-Workspace\C#\Kenny\obj\Debug\net8.0\Kenny.csproj.AssemblyReference.cache
+C:\Users\Роман Горелов\Downloads\Programming-Workspace\C#\Kenny\obj\Debug\net8.0\Kenny.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Роман Горелов\Downloads\Programming-Workspace\C#\Kenny\obj\Debug\net8.0\Kenny.AssemblyInfoInputs.cache
+C:\Users\Роман Горелов\Downloads\Programming-Workspace\C#\Kenny\obj\Debug\net8.0\Kenny.AssemblyInfo.cs
+C:\Users\Роман Горелов\Downloads\Programming-Workspace\C#\Kenny\obj\Debug\net8.0\Kenny.csproj.CoreCompileInputs.cache
+C:\Users\Роман Горелов\Downloads\Programming-Workspace\C#\Kenny\obj\Debug\net8.0\Kenny.csproj.Up2Date
+C:\Users\Роман Горелов\Downloads\Programming-Workspace\C#\Kenny\obj\Debug\net8.0\Kenny.dll
+C:\Users\Роман Горелов\Downloads\Programming-Workspace\C#\Kenny\obj\Debug\net8.0\refint\Kenny.dll
+C:\Users\Роман Горелов\Downloads\Programming-Workspace\C#\Kenny\obj\Debug\net8.0\Kenny.pdb
+C:\Users\Роман Горелов\Downloads\Programming-Workspace\C#\Kenny\obj\Debug\net8.0\Kenny.genruntimeconfig.cache
+C:\Users\Роман Горелов\Downloads\Programming-Workspace\C#\Kenny\obj\Debug\net8.0\ref\Kenny.dll
+C:\Users\Роман Горелов\WorkSpace\Code\Kenny\bin\Debug\net8.0\Kenny.exe
+C:\Users\Роман Горелов\WorkSpace\Code\Kenny\bin\Debug\net8.0\Kenny.deps.json
+C:\Users\Роман Горелов\WorkSpace\Code\Kenny\bin\Debug\net8.0\Kenny.runtimeconfig.json
+C:\Users\Роман Горелов\WorkSpace\Code\Kenny\bin\Debug\net8.0\Kenny.dll
+C:\Users\Роман Горелов\WorkSpace\Code\Kenny\bin\Debug\net8.0\Kenny.pdb
+C:\Users\Роман Горелов\WorkSpace\Code\Kenny\bin\Debug\net8.0\Magick.NET-Q16-AnyCPU.dll
+C:\Users\Роман Горелов\WorkSpace\Code\Kenny\bin\Debug\net8.0\Magick.NET.Core.dll
+C:\Users\Роман Горелов\WorkSpace\Code\Kenny\bin\Debug\net8.0\runtimes\linux-arm64\native\Magick.Native-Q16-arm64.dll.so
+C:\Users\Роман Горелов\WorkSpace\Code\Kenny\bin\Debug\net8.0\runtimes\linux-musl-x64\native\Magick.Native-Q16-x64.dll.so
+C:\Users\Роман Горелов\WorkSpace\Code\Kenny\bin\Debug\net8.0\runtimes\linux-x64\native\Magick.Native-Q16-x64.dll.so
+C:\Users\Роман Горелов\WorkSpace\Code\Kenny\bin\Debug\net8.0\runtimes\osx-arm64\native\Magick.Native-Q16-arm64.dll.dylib
+C:\Users\Роман Горелов\WorkSpace\Code\Kenny\bin\Debug\net8.0\runtimes\osx-x64\native\Magick.Native-Q16-x64.dll.dylib
+C:\Users\Роман Горелов\WorkSpace\Code\Kenny\bin\Debug\net8.0\runtimes\win-arm64\native\Magick.Native-Q16-arm64.dll
+C:\Users\Роман Горелов\WorkSpace\Code\Kenny\bin\Debug\net8.0\runtimes\win-x64\native\Magick.Native-Q16-x64.dll
+C:\Users\Роман Горелов\WorkSpace\Code\Kenny\bin\Debug\net8.0\runtimes\win-x86\native\Magick.Native-Q16-x86.dll
+C:\Users\Роман Горелов\WorkSpace\Code\Kenny\obj\Debug\net8.0\Kenny.csproj.AssemblyReference.cache
+C:\Users\Роман Горелов\WorkSpace\Code\Kenny\obj\Debug\net8.0\Kenny.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Роман Горелов\WorkSpace\Code\Kenny\obj\Debug\net8.0\Kenny.AssemblyInfoInputs.cache
+C:\Users\Роман Горелов\WorkSpace\Code\Kenny\obj\Debug\net8.0\Kenny.AssemblyInfo.cs
+C:\Users\Роман Горелов\WorkSpace\Code\Kenny\obj\Debug\net8.0\Kenny.csproj.CoreCompileInputs.cache
+C:\Users\Роман Горелов\WorkSpace\Code\Kenny\obj\Debug\net8.0\Kenny.sourcelink.json
+C:\Users\Роман Горелов\WorkSpace\Code\Kenny\obj\Debug\net8.0\Kenny.csproj.Up2Date
+C:\Users\Роман Горелов\WorkSpace\Code\Kenny\obj\Debug\net8.0\Kenny.dll
+C:\Users\Роман Горелов\WorkSpace\Code\Kenny\obj\Debug\net8.0\refint\Kenny.dll
+C:\Users\Роман Горелов\WorkSpace\Code\Kenny\obj\Debug\net8.0\Kenny.pdb
+C:\Users\Роман Горелов\WorkSpace\Code\Kenny\obj\Debug\net8.0\Kenny.genruntimeconfig.cache
+C:\Users\Роман Горелов\WorkSpace\Code\Kenny\obj\Debug\net8.0\ref\Kenny.dll
