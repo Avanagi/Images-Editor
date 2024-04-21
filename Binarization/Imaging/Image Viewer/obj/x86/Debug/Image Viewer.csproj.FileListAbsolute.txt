@@ -1,0 +1,56 @@
+C:\Users\gorel\Programming-Workspace\C#\gg\Imaging\Image Viewer\bin\x86\Debug\Accord.dll.config
+C:\Users\gorel\Programming-Workspace\C#\gg\Imaging\Image Viewer\bin\x86\Debug\ImageViewer.exe.config
+C:\Users\gorel\Programming-Workspace\C#\gg\Imaging\Image Viewer\bin\x86\Debug\ImageViewer.exe
+C:\Users\gorel\Programming-Workspace\C#\gg\Imaging\Image Viewer\bin\x86\Debug\ImageViewer.pdb
+C:\Users\gorel\Programming-Workspace\C#\gg\Imaging\Image Viewer\bin\x86\Debug\Accord.Controls.Imaging.dll
+C:\Users\gorel\Programming-Workspace\C#\gg\Imaging\Image Viewer\bin\x86\Debug\Accord.dll
+C:\Users\gorel\Programming-Workspace\C#\gg\Imaging\Image Viewer\bin\x86\Debug\Accord.Imaging.dll
+C:\Users\gorel\Programming-Workspace\C#\gg\Imaging\Image Viewer\bin\x86\Debug\Accord.MachineLearning.dll
+C:\Users\gorel\Programming-Workspace\C#\gg\Imaging\Image Viewer\bin\x86\Debug\Accord.Math.Core.dll
+C:\Users\gorel\Programming-Workspace\C#\gg\Imaging\Image Viewer\bin\x86\Debug\Accord.Math.dll
+C:\Users\gorel\Programming-Workspace\C#\gg\Imaging\Image Viewer\bin\x86\Debug\Accord.Statistics.dll
+C:\Users\gorel\Programming-Workspace\C#\gg\Imaging\Image Viewer\bin\x86\Debug\Accord.Video.dll
+C:\Users\gorel\Programming-Workspace\C#\gg\Imaging\Image Viewer\bin\x86\Debug\Accord.xml
+C:\Users\gorel\Programming-Workspace\C#\gg\Imaging\Image Viewer\bin\x86\Debug\Accord.Controls.Imaging.xml
+C:\Users\gorel\Programming-Workspace\C#\gg\Imaging\Image Viewer\bin\x86\Debug\Accord.Imaging.xml
+C:\Users\gorel\Programming-Workspace\C#\gg\Imaging\Image Viewer\bin\x86\Debug\Accord.MachineLearning.xml
+C:\Users\gorel\Programming-Workspace\C#\gg\Imaging\Image Viewer\bin\x86\Debug\Accord.Math.xml
+C:\Users\gorel\Programming-Workspace\C#\gg\Imaging\Image Viewer\bin\x86\Debug\Accord.Math.Core.xml
+C:\Users\gorel\Programming-Workspace\C#\gg\Imaging\Image Viewer\bin\x86\Debug\Accord.Statistics.xml
+C:\Users\gorel\Programming-Workspace\C#\gg\Imaging\Image Viewer\bin\x86\Debug\Accord.Video.xml
+C:\Users\gorel\Programming-Workspace\C#\gg\Imaging\Image Viewer\obj\x86\Debug\Image Viewer.csproj.AssemblyReference.cache
+C:\Users\gorel\Programming-Workspace\C#\gg\Imaging\Image Viewer\obj\x86\Debug\SampleApp.MainForm.resources
+C:\Users\gorel\Programming-Workspace\C#\gg\Imaging\Image Viewer\obj\x86\Debug\SampleApp.Properties.Resources.resources
+C:\Users\gorel\Programming-Workspace\C#\gg\Imaging\Image Viewer\obj\x86\Debug\Image Viewer.csproj.GenerateResource.cache
+C:\Users\gorel\Programming-Workspace\C#\gg\Imaging\Image Viewer\obj\x86\Debug\Image Viewer.csproj.CoreCompileInputs.cache
+C:\Users\gorel\Programming-Workspace\C#\gg\Imaging\Image Viewer\obj\x86\Debug\Image Vi.C2E191CA.Up2Date
+C:\Users\gorel\Programming-Workspace\C#\gg\Imaging\Image Viewer\obj\x86\Debug\ImageViewer.exe
+C:\Users\gorel\Programming-Workspace\C#\gg\Imaging\Image Viewer\obj\x86\Debug\ImageViewer.pdb
+C:\Users\gorel\Programming-Workspace\C#\Binarization\Imaging\Image Viewer\bin\x86\Debug\Accord.dll.config
+C:\Users\gorel\Programming-Workspace\C#\Binarization\Imaging\Image Viewer\bin\x86\Debug\ImageViewer.exe.config
+C:\Users\gorel\Programming-Workspace\C#\Binarization\Imaging\Image Viewer\bin\x86\Debug\ImageViewer.exe
+C:\Users\gorel\Programming-Workspace\C#\Binarization\Imaging\Image Viewer\bin\x86\Debug\ImageViewer.pdb
+C:\Users\gorel\Programming-Workspace\C#\Binarization\Imaging\Image Viewer\bin\x86\Debug\Accord.Controls.Imaging.dll
+C:\Users\gorel\Programming-Workspace\C#\Binarization\Imaging\Image Viewer\bin\x86\Debug\Accord.dll
+C:\Users\gorel\Programming-Workspace\C#\Binarization\Imaging\Image Viewer\bin\x86\Debug\Accord.Imaging.dll
+C:\Users\gorel\Programming-Workspace\C#\Binarization\Imaging\Image Viewer\bin\x86\Debug\Accord.MachineLearning.dll
+C:\Users\gorel\Programming-Workspace\C#\Binarization\Imaging\Image Viewer\bin\x86\Debug\Accord.Math.Core.dll
+C:\Users\gorel\Programming-Workspace\C#\Binarization\Imaging\Image Viewer\bin\x86\Debug\Accord.Math.dll
+C:\Users\gorel\Programming-Workspace\C#\Binarization\Imaging\Image Viewer\bin\x86\Debug\Accord.Statistics.dll
+C:\Users\gorel\Programming-Workspace\C#\Binarization\Imaging\Image Viewer\bin\x86\Debug\Accord.Video.dll
+C:\Users\gorel\Programming-Workspace\C#\Binarization\Imaging\Image Viewer\bin\x86\Debug\Accord.xml
+C:\Users\gorel\Programming-Workspace\C#\Binarization\Imaging\Image Viewer\bin\x86\Debug\Accord.Controls.Imaging.xml
+C:\Users\gorel\Programming-Workspace\C#\Binarization\Imaging\Image Viewer\bin\x86\Debug\Accord.Imaging.xml
+C:\Users\gorel\Programming-Workspace\C#\Binarization\Imaging\Image Viewer\bin\x86\Debug\Accord.MachineLearning.xml
+C:\Users\gorel\Programming-Workspace\C#\Binarization\Imaging\Image Viewer\bin\x86\Debug\Accord.Math.xml
+C:\Users\gorel\Programming-Workspace\C#\Binarization\Imaging\Image Viewer\bin\x86\Debug\Accord.Math.Core.xml
+C:\Users\gorel\Programming-Workspace\C#\Binarization\Imaging\Image Viewer\bin\x86\Debug\Accord.Statistics.xml
+C:\Users\gorel\Programming-Workspace\C#\Binarization\Imaging\Image Viewer\bin\x86\Debug\Accord.Video.xml
+C:\Users\gorel\Programming-Workspace\C#\Binarization\Imaging\Image Viewer\obj\x86\Debug\Image Viewer.csproj.AssemblyReference.cache
+C:\Users\gorel\Programming-Workspace\C#\Binarization\Imaging\Image Viewer\obj\x86\Debug\SampleApp.MainForm.resources
+C:\Users\gorel\Programming-Workspace\C#\Binarization\Imaging\Image Viewer\obj\x86\Debug\SampleApp.Properties.Resources.resources
+C:\Users\gorel\Programming-Workspace\C#\Binarization\Imaging\Image Viewer\obj\x86\Debug\Image Viewer.csproj.GenerateResource.cache
+C:\Users\gorel\Programming-Workspace\C#\Binarization\Imaging\Image Viewer\obj\x86\Debug\Image Viewer.csproj.CoreCompileInputs.cache
+C:\Users\gorel\Programming-Workspace\C#\Binarization\Imaging\Image Viewer\obj\x86\Debug\Image Vi.C2E191CA.Up2Date
+C:\Users\gorel\Programming-Workspace\C#\Binarization\Imaging\Image Viewer\obj\x86\Debug\ImageViewer.exe
+C:\Users\gorel\Programming-Workspace\C#\Binarization\Imaging\Image Viewer\obj\x86\Debug\ImageViewer.pdb
