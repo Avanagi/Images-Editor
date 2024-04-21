@@ -1,0 +1,32 @@
+﻿  ImageMoveLeft.cpp
+C:\Users\gorel\Programming-Workspace\C++\ImageMoveLeft\ImageMoveLeft.cpp(18,34): warning C4244: аргумент: преобразование "int" в "_Tp", возможна потеря данных
+C:\Users\gorel\Programming-Workspace\C++\ImageMoveLeft\ImageMoveLeft.cpp(18,34): warning C4244:         with
+C:\Users\gorel\Programming-Workspace\C++\ImageMoveLeft\ImageMoveLeft.cpp(18,34): warning C4244:         [
+C:\Users\gorel\Programming-Workspace\C++\ImageMoveLeft\ImageMoveLeft.cpp(18,34): warning C4244:             _Tp=float
+C:\Users\gorel\Programming-Workspace\C++\ImageMoveLeft\ImageMoveLeft.cpp(18,34): warning C4244:         ]
+C:\Users\gorel\Programming-Workspace\C++\ImageMoveLeft\ImageMoveLeft.cpp(19,37): warning C4244: аргумент: преобразование "int" в "_Tp", возможна потеря данных
+C:\Users\gorel\Programming-Workspace\C++\ImageMoveLeft\ImageMoveLeft.cpp(19,37): warning C4244:         with
+C:\Users\gorel\Programming-Workspace\C++\ImageMoveLeft\ImageMoveLeft.cpp(19,37): warning C4244:         [
+C:\Users\gorel\Programming-Workspace\C++\ImageMoveLeft\ImageMoveLeft.cpp(19,37): warning C4244:             _Tp=float
+C:\Users\gorel\Programming-Workspace\C++\ImageMoveLeft\ImageMoveLeft.cpp(19,37): warning C4244:         ]
+C:\Users\gorel\Programming-Workspace\C++\ImageMoveLeft\ImageMoveLeft.cpp(23,38): warning C4244: аргумент: преобразование "double" в "_Tp", возможна потеря данных
+C:\Users\gorel\Programming-Workspace\C++\ImageMoveLeft\ImageMoveLeft.cpp(23,38): warning C4244:         with
+C:\Users\gorel\Programming-Workspace\C++\ImageMoveLeft\ImageMoveLeft.cpp(23,38): warning C4244:         [
+C:\Users\gorel\Programming-Workspace\C++\ImageMoveLeft\ImageMoveLeft.cpp(23,38): warning C4244:             _Tp=float
+C:\Users\gorel\Programming-Workspace\C++\ImageMoveLeft\ImageMoveLeft.cpp(23,38): warning C4244:         ]
+C:\Users\gorel\Programming-Workspace\C++\ImageMoveLeft\ImageMoveLeft.cpp(24,41): warning C4244: аргумент: преобразование "double" в "_Tp", возможна потеря данных
+C:\Users\gorel\Programming-Workspace\C++\ImageMoveLeft\ImageMoveLeft.cpp(24,41): warning C4244:         with
+C:\Users\gorel\Programming-Workspace\C++\ImageMoveLeft\ImageMoveLeft.cpp(24,41): warning C4244:         [
+C:\Users\gorel\Programming-Workspace\C++\ImageMoveLeft\ImageMoveLeft.cpp(24,41): warning C4244:             _Tp=float
+C:\Users\gorel\Programming-Workspace\C++\ImageMoveLeft\ImageMoveLeft.cpp(24,41): warning C4244:         ]
+C:\Users\gorel\Programming-Workspace\C++\ImageMoveLeft\ImageMoveLeft.cpp(29,69): warning C4244: аргумент: преобразование "double" в "_Tp", возможна потеря данных
+C:\Users\gorel\Programming-Workspace\C++\ImageMoveLeft\ImageMoveLeft.cpp(29,69): warning C4244:         with
+C:\Users\gorel\Programming-Workspace\C++\ImageMoveLeft\ImageMoveLeft.cpp(29,69): warning C4244:         [
+C:\Users\gorel\Programming-Workspace\C++\ImageMoveLeft\ImageMoveLeft.cpp(29,69): warning C4244:             _Tp=int
+C:\Users\gorel\Programming-Workspace\C++\ImageMoveLeft\ImageMoveLeft.cpp(29,69): warning C4244:         ]
+C:\Users\gorel\Programming-Workspace\C++\ImageMoveLeft\ImageMoveLeft.cpp(29,55): warning C4244: аргумент: преобразование "double" в "_Tp", возможна потеря данных
+C:\Users\gorel\Programming-Workspace\C++\ImageMoveLeft\ImageMoveLeft.cpp(29,55): warning C4244:         with
+C:\Users\gorel\Programming-Workspace\C++\ImageMoveLeft\ImageMoveLeft.cpp(29,55): warning C4244:         [
+C:\Users\gorel\Programming-Workspace\C++\ImageMoveLeft\ImageMoveLeft.cpp(29,55): warning C4244:             _Tp=int
+C:\Users\gorel\Programming-Workspace\C++\ImageMoveLeft\ImageMoveLeft.cpp(29,55): warning C4244:         ]
+  ImageMoveLeft.vcxproj -> C:\Users\gorel\Programming-Workspace\C++\ImageMoveLeft\x64\Debug\ImageMoveLeft.exe
